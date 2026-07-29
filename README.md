@@ -38,4 +38,5 @@ The plugin adds an Eleventy transform that inserts one deferred script tag befor
 
 ## License
 
-MIT. Questions: open an issue or say hi in the chat at [deskcrew.io](https://deskcrew.io).
+MIT. Full setup guide: [Add live chat to Eleventy](https://deskcrew.io/integrations/eleventy).
+Questions: open an issue or say hi in the chat at [deskcrew.io](https://deskcrew.io).
