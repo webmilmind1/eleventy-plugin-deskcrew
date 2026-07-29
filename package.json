@@ -1,0 +1,13 @@
+{
+  "name": "eleventy-plugin-deskcrew",
+  "version": "1.0.0",
+  "description": "Add the DeskCrew support widget to an Eleventy site: live chat, AI answers from your knowledge base, and a help center. One plugin, no template changes.",
+  "keywords": ["eleventy", "eleventy-plugin", "11ty", "deskcrew", "live chat", "support", "helpdesk", "widget"],
+  "license": "MIT",
+  "homepage": "https://deskcrew.io",
+  "author": { "name": "DeskCrew", "url": "https://deskcrew.io" },
+  "repository": { "type": "git", "url": "git+https://github.com/webmilmind1/eleventy-plugin-deskcrew.git" },
+  "main": "index.js",
+  "files": ["index.js", "README.md", "LICENSE"],
+  "engines": { "node": ">=14" }
+}
